@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohita1304
+- 👋 Hi, I’m @Mohita
 - 📫 How to reach me : mahajanmohita93@gmail.com
 
 <!---
