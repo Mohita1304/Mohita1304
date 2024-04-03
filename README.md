@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mohita1304
-- 👀 I’m interested in  solving the biological problems using high-throughput data.
 - 📫 How to reach me : mahajanmohita93@gmail.com
 
 <!---
